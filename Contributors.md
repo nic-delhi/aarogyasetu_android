@@ -47,7 +47,8 @@ Vikash Kumar
 Manisha Agrawal  
 Vikas Chaubey  
 Deepak Rawat  
-Shipra Saxena  
+Shipra Saxena
+eshwar reddy
 
 ---------------------------------
 Contributors (Industry)
